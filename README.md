@@ -16,7 +16,7 @@
 
 ## Descrição do projeto 
 
-Foi criado um wireframe com três telas de prototipação dentro de um aplicativo simulando um app, um click , overley, componentes master.
+Foi criado um wireframe com três telas de prototipação dentro de um aplicativo simulando um app, um click , overlay, componentes master.
 
 
 <p align="justify">
